@@ -1,7 +1,7 @@
 # word-of-the-day-discord
 Post a random word from [wordnik](http://wordnik.com/), with definition, to discord channel of your choice.
 
-##Usage
+## Usage
 
 Requires:
 
@@ -18,7 +18,7 @@ If you would like to change when the word will be posted during the day change..
 
 It is based on a 24 hour clock so use accordingly.
 
-##To Note
+## To Note
 This repo was remade becuase the previous one contained sensitive information.
 
 **Author:** Benjamin Friesen
